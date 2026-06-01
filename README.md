@@ -1,7 +1,7 @@
 <div align="center">
   <img src="[https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif]
   
-  <h1>Olá! Eu sou o **Mateus**!</h1>
+  <h1>Olá! Eu sou o Mateus!</h1>
   <h3> Python Developer | Inteligência Artificial & Machine Learning </h3>
 </div>
 
