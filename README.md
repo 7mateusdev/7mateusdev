@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd5aTVydnFuNGd1aXR6cTlpaTIwcWl2NG9iM25lbjA1MTF4eW15bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11y9UBjLh2Rs40/giphy.gif)" width="400" alt="AI Robot Animation"/>
+  <img src="[https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif]
   
-  <h1>Olá! 👋 Eu sou o Mateus</h1>
-  <h3>🤖 Python Developer | Entusiasta em Inteligência Artificial & Machine Learning 🧠</h3>
+  <h1>Olá! Eu sou o **Mateus**!</h1>
+  <h3> Python Developer | Inteligência Artificial & Machine Learning </h3>
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
-- 🔭 Atualmente trabalhando em **projetos de Deep Learning e Visão Computacional**
-- 🌱 Aprendendo cada vez mais sobre **Redes Neurais, Transformers, LLMs e MLOps**
+###  Sobre mim
+-  Atualmente trabalhando em **projetos de Deep Learning e Visão Computacional**
+-  Aprendendo cada vez mais sobre **Redes Neurais, Transformers, LLMs e MLOps**
 
 ---
 
