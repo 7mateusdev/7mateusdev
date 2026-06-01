@@ -10,8 +10,6 @@
 ### 👨‍💻 Sobre mim
 - 🔭 Atualmente trabalhando em **projetos de Deep Learning e Visão Computacional**
 - 🌱 Aprendendo cada vez mais sobre **Redes Neurais, Transformers, LLMs e MLOps**
-- 👯 Buscando colaborações em **projetos open-source focados em IA**
-- ⚡ Curiosidade: *Eu ensino máquinas a pensar enquanto tomo café.* ☕
 
 ---
 
