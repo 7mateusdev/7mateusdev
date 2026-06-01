@@ -1,81 +1,86 @@
-# 👨‍💻 Mateus
+<div align="center">
 
-### Estudante de Tecnologia | Python Developer | Cybersecurity Enthusiast
+# MATEUS
 
-> "Construindo hoje as habilidades que vão definir meu futuro."
+### Software Development • Cybersecurity • Artificial Intelligence
 
----
-
-## 🚀 Sobre Mim
-
-Meu nome é Mateus e sou um estudante apaixonado por tecnologia, programação e segurança cibernética.
-
-Atualmente estou focado em desenvolver minhas habilidades como programador, estudando Python, lógica de programação, automação e desenvolvimento de software.
-
-Também tenho interesse em:
-
-- 🐍 Python
-- 🔒 Segurança Cibernética
-- 🤖 Inteligência Artificial
-- 🗄️ Banco de Dados
-- 🌐 Desenvolvimento de Software
-- 💻 Hardware e Performance
-- 📚 Aprendizado Contínuo
+</div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## About
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
-</p>
+I am a technology enthusiast focused on software development, cybersecurity, and artificial intelligence.
 
----
+My interests range from low-level systems and automation to modern software architectures and emerging AI technologies. I enjoy building projects that combine problem-solving, performance, and practical applications.
 
-## 📖 Atualmente Estudando
-
-- Python
-- Estruturas de Repetição e Condições
-- Lógica de Programação
-- Git e GitHub
-- Banco de Dados
-- Fundamentos de Cybersecurity
+Currently expanding my expertise in Python development, software engineering fundamentals, cybersecurity concepts, and system design.
 
 ---
 
-## 🎯 Objetivos
+## Core Areas
 
-- Desenvolver projetos cada vez mais complexos
-- Construir um portfólio sólido
-- Aprofundar conhecimentos em programação
-- Aprender segurança cibernética de forma ética
-- Trabalhar com tecnologia profissionalmente
+```text
+• Software Development
+• Python Programming
+• Cybersecurity
+• Artificial Intelligence
+• Automation
+• Database Systems
+• Computer Hardware
+```
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7mateusdev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7mateusdev&layout=compact&theme=tokyonight"/>
+
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,mysql" />
+
 </p>
 
 ---
 
-## 🔥 Projetos em Desenvolvimento
+## Philosophy
 
-- Sistemas em Python
-- Automações
-- Projetos de terminal
-- Estudos de algoritmos
-- Experimentos com IA
-
----
-
-## 📫 Contato
-
-- GitHub: https://github.com/7mateusdev
+> Technology is not just about writing code.
+>
+> It is about understanding systems, solving problems,
+> and continuously improving through learning and experimentation.
 
 ---
 
-⭐ Sempre aprendendo algo novo e transformando conhecimento em projetos.
+## Current Focus
+
+- Python Development
+- Software Engineering Fundamentals
+- Cybersecurity
+- Artificial Intelligence
+- Database Systems
+- Automation
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=7mateusdev&show_icons=true&hide_border=true&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7mateusdev&layout=compact&hide_border=true&theme=github_dark"/>
+</p>
+
+---
+
+## Selected Projects
+
+Projects focused on software development, automation, cybersecurity research, and practical problem solving.
+
+More coming soon.
+
+---
+
+<div align="center">
+
+### Building skills. Creating solutions. Learning continuously.
+
+</div>
