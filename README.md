@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="400" alt="AI Robot Animation"/>
+
   
   <h1>Olá! Eu sou o Mateus</h1>
   <h3> Python Developer | Entusiasta em Inteligência Artificial & Machine Learning </h3>
