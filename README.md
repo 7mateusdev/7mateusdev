@@ -1,110 +1,64 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:1f1f1f&text=Mateus&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
-
-# MATEUS
-
-### Software Development • Cybersecurity • Artificial Intelligence
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Cybersecurity+Enthusiast;Artificial+Intelligence+Explorer;Building+Projects+and+Learning+Every+Day"/>
-
+  <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="400" alt="AI Robot Animation"/>
+  
+  <h1>Olá! 👋 Eu sou o Mateus</h1>
+  <h3>🤖 Python Developer | Entusiasta em Inteligência Artificial & Machine Learning 🧠</h3>
 </div>
 
 ---
 
-## About Me
-
-```yaml
-Name: Mateus
-Location: Brazil
-Focus:
-  - Software Development
-  - Cybersecurity
-  - Artificial Intelligence
-  - Automation
-
-Current Goal:
-  Becoming a highly skilled technology professional.
-```
+### 👨‍💻 Sobre mim
+- 🔭 Atualmente trabalhando em **projetos de Deep Learning e Visão Computacional**
+- 🌱 Aprendendo cada vez mais sobre **Redes Neurais, Transformers, LLMs e MLOps**
+- 👯 Buscando colaborações em **projetos open-source focados em IA**
+- ⚡ Curiosidade: *Eu ensino máquinas a pensar enquanto tomo café.* ☕
 
 ---
 
-## Tech Stack
-
+### 🛠️ Tech Stack & Ferramentas
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,mysql,bash" />
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
-## Areas of Interest
-
+### 📊 Minhas Estatísticas
 <div align="center">
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
-
-![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
-## GitHub Statistics
-
+### 🐍 Meus Commits (A Cobrinha!)
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=7mateusdev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7mateusdev&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-## Activity Graph
+### 🏆 Portfólio de IA (Projetos em Destaque)
+| Projeto | Descrição | Tecnologias | Status |
+|---|---|---|---|
+| **[NeuroVision API](#)** | API robusta de reconhecimento facial e análise de emoções em tempo real usando câmeras web. | Python, OpenCV, TensorFlow | 🟢 Concluído |
+| **[ChatBot NLP Customizado](#)** | Fine-tuning de um LLM open-source para atuar como assistente de suporte técnico. | PyTorch, HuggingFace | 🟡 Em dev |
+| **[Predictive Stock AI](#)** | Modelo preditivo usando LSTMs para prever tendências do mercado financeiro e cripto. | Python, Pandas, Keras | 🟢 Concluído |
 
+---
+
+### 📫 Como me encontrar
 <div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=7mateusdev&theme=github-dark&hide_border=true"/>
-
+  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
----
-
-## Current Focus
-
-🛠 Building practical projects
-
-🔒 Learning cybersecurity concepts
-
-🐍 Improving Python skills
-
-🤖 Exploring artificial intelligence
-
-📚 Studying software engineering fundamentals
-
----
-
-## Philosophy
-
-> Technology rewards curiosity, consistency, and the willingness to solve difficult problems.
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/7mateusdev">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f0f0f,100:1f1f1f"/>
