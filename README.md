@@ -1,86 +1,110 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:1f1f1f&text=Mateus&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
+
 # MATEUS
 
 ### Software Development • Cybersecurity • Artificial Intelligence
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Python+Developer;Cybersecurity+Enthusiast;Artificial+Intelligence+Explorer;Building+Projects+and+Learning+Every+Day"/>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am a technology enthusiast focused on software development, cybersecurity, and artificial intelligence.
+```yaml
+Name: Mateus
+Location: Brazil
+Focus:
+  - Software Development
+  - Cybersecurity
+  - Artificial Intelligence
+  - Automation
 
-My interests range from low-level systems and automation to modern software architectures and emerging AI technologies. I enjoy building projects that combine problem-solving, performance, and practical applications.
-
-Currently expanding my expertise in Python development, software engineering fundamentals, cybersecurity concepts, and system design.
-
----
-
-## Core Areas
-
-```text
-• Software Development
-• Python Programming
-• Cybersecurity
-• Artificial Intelligence
-• Automation
-• Database Systems
-• Computer Hardware
+Current Goal:
+  Becoming a highly skilled technology professional.
 ```
 
 ---
 
 ## Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,mysql,bash" />
 
-</p>
+</div>
 
 ---
 
-## Philosophy
+## Areas of Interest
 
-> Technology is not just about writing code.
->
-> It is about understanding systems, solving problems,
-> and continuously improving through learning and experimentation.
+<div align="center">
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=7mateusdev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7mateusdev&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=7mateusdev&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
 ## Current Focus
 
-- Python Development
-- Software Engineering Fundamentals
-- Cybersecurity
-- Artificial Intelligence
-- Database Systems
-- Automation
+🛠 Building practical projects
+
+🔒 Learning cybersecurity concepts
+
+🐍 Improving Python skills
+
+🤖 Exploring artificial intelligence
+
+📚 Studying software engineering fundamentals
 
 ---
 
-## GitHub Analytics
+## Philosophy
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=7mateusdev&show_icons=true&hide_border=true&theme=github_dark"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7mateusdev&layout=compact&hide_border=true&theme=github_dark"/>
-</p>
+> Technology rewards curiosity, consistency, and the willingness to solve difficult problems.
 
 ---
 
-## Selected Projects
-
-Projects focused on software development, automation, cybersecurity research, and practical problem solving.
-
-More coming soon.
-
----
+## Connect
 
 <div align="center">
 
-### Building skills. Creating solutions. Learning continuously.
+<a href="https://github.com/7mateusdev">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f0f0f,100:1f1f1f"/>
